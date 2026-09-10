@@ -1,0 +1,36 @@
+Food,Fmin,Fmax,Description
+Chipotle_Chicken_Burrito,0,3,Chipotle premium burrito - limited variety needed
+Chipotle_Steak_Bowl,0,3,Chipotle premium steak bowl - limited variety needed
+Chipotle_Veggie_Tacos,0,3,Chipotle veggie tacos - healthy option
+Chipotle_Churros,0,3,Chipotle churros - sweet dessert
+Subway_Turkey_Sandwich,0,3,Subway turkey sandwich - healthy choice
+Subway_Veggie_Delite,0,3,Subway veggie delite - basic option
+Subway_Chicken_Teriyaki,0,3,Subway chicken teriyaki - flavorful
+Subway_Meatball_Marinara,0,3,Subway meatball marinara - classic sub
+McDonalds_Big_Mac,0,3,McDonald's Big Mac - classic burger
+McDonalds_Quarter_Pounder,0,3,McDonald's Quarter Pounder - premium burger
+McDonalds_Chicken_Nuggets,0,3,McDonald's chicken nuggets - kid favorite
+McDonalds_Vanilla_Cone,0,3,McDonald's vanilla cone - ice cream dessert
+Starbucks_Latte,0,3,Starbucks latte - premium coffee drink
+Starbucks_Cappuccino,0,3,Starbucks cappuccino - espresso drink
+Starbucks_Frappuccino,0,3,Starbucks frappuccino - indulgent drink
+Starbucks_Muffin,0,3,Starbucks muffin - pastry item
+Starbucks_Croissant,0,3,Starbucks croissant - buttery pastry
+DailyScoop_Vanilla_Cone,0,3,Ice cream vanilla cone - classic treat
+DailyScoop_Chocolate_Sundae,0,3,Ice cream chocolate sundae - indulgent dessert
+DailyScoop_Strawberry_Scoop,0,3,Ice cream strawberry scoop - fruity option
+DailyScoop_Cookie_Dough,0,3,Ice cream cookie dough - premium flavor
+PizzaHut_Pepperoni_Pizza,0,3,Pizza Hut pepperoni pizza - classic pizza
+PizzaHut_Cheese_Pizza,0,3,Pizza Hut cheese pizza - simple option
+PizzaHut_Veggie_Pizza,0,3,Pizza Hut veggie pizza - healthy choice
+PizzaHut_Brownie,0,3,Pizza Hut brownie - chocolate dessert
+TacoBell_Crunchwrap,0,3,Taco Bell crunchwrap - premium item
+TacoBell_Taco,0,3,Taco Bell taco - basic item
+TacoBell_Burrito,0,3,Taco Bell burrito - hearty option
+TacoBell_Cinnamon_Twist,0,3,Taco Bell cinnamon twist - sweet dessert
+Dunkin_Coffee,0,3,Dunkin coffee - basic beverage
+Dunkin_Donut,0,3,Dunkin donut - sweet treat
+Dunkin_Cheese_Cake,0,3,Dunkin cheese cake - premium dessert
+ColdStone_IceCream_Cake,0,3,Cold Stone ice cream cake - premium dessert
+ColdStone_Smoothie,0,3,Cold Stone smoothie - healthy option
+ColdStone_Milkshake,0,3,Cold Stone milkshake - classic drink

@@ -1,0 +1,11 @@
+Parameter,Value,Description
+min_satisfaction,1,Minimum total satisfaction score required
+max_servings_per_food,3.0,Maximum servings per food (if selected)
+variety_bonus_weight,0.1,Weight for variety bonus in objective function
+budget_min,5,Update Daily Minimum budget constraint ($) - very low for flexibility
+budget_max,50,Update Daily Maximum budget constraint ($) - $50 daily limit
+w_cost,1.0,Weight for cost in objective function
+w_satisfaction,0.5,Weight for satisfaction in objective function
+min_food_types,0,Minimum number of different foods (MIP)
+max_food_types,25,Maximum number of different foods (MIP)
+min_servings_if_selected,1,Minimum servings if food is selected (MIP)
